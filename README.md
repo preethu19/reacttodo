@@ -12,7 +12,7 @@ link : http://preethu19.github.io/reacttodo
 
 • A glimpse of the web app:
 
- ![GIF](https://github.com/preethu19/interiorshop19/blob/main/interiorshopgif.gif)
+ ![GIF](https://github.com/preethu19/reacttodo/blob/master/react-todo.gif)
 
 
 ## Installation
