@@ -8,7 +8,7 @@
 
 # Demo
 
-link : http://preethu19.github.io/reacthome
+link : http://preethu19.github.io/reacttodo
 
 • A glimpse of the web app:
 
