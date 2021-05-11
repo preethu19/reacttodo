@@ -6,7 +6,7 @@
 - Users can add task and strike out once done
 - React state is used here to handle task
 
-# Demo
+## Demo
 
 link : http://preethu19.github.io/reacttodo
 
@@ -15,23 +15,23 @@ link : http://preethu19.github.io/reacttodo
  ![GIF](https://github.com/preethu19/interiorshop19/blob/main/interiorshopgif.gif)
 
 
-# Installation
+## Installation
 
 - Clone the repo
 ```bash
 npm install
 ```
-# Run
+## Run
 
 ```bash
 npm start
 ```
 
 
-# Technologies Used
+## Technologies Used
 
 <img src="https://xourceit.com/wp-content/uploads/2020/12/react.jpg" alt="Your image title" width="250"/>
 
-# Team
+## Team
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/preetham19/)
 &nbsp;
